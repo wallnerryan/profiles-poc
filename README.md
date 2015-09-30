@@ -1,5 +1,7 @@
 Repository to re-create FlockerProfiles Hack from Docker Hackday #3
 
+* Note, scaleio-flocker-driver branch to support profiles has been removed temporarily" 
+
 # Design details of EMC ScaleIO implemtation
 
 ##ScaleIO support for different options (profiles) for volumes.
