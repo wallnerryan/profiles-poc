@@ -10,3 +10,9 @@
 [submodule "flocker-scaleio-singlenode"]
 	path = flocker-scaleio-singlenode
 	url = https://github.com/wallnerryan/flocker-scaleio-singlenode.git
+[submodule "profiles_scaleio_driver"]
+	path = profiles_scaleio_driver
+	url = https://github.com/emccorp/scaleio-flocker-driver
+[submodule "scaleio-py"]
+	path = scaleio-py
+	url = https://github.com/wallnerryan/scaleio-py
