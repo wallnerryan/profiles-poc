@@ -1,0 +1,9 @@
+[submodule "flocker"]
+	path = flocker
+	url = https://github.com/wallnerryan/flocker-profiles.git
+[submodule "scaleio-vagrant-7"]
+	path = scaleio-vagrant-7
+	url = https://github.com/wallnerryan/scaleio-vagrant-7.git
+[submodule "scaleio-vagrant"]
+	path = scaleio-vagrant
+	url = https://github.com/wallnerryan/scaleio-vagrant-7.git

@@ -21,7 +21,7 @@ Vagrant.configure(VAGRANTFILE_API_VERSION) do |config|
   config.vm.box = "clusterhq/flocker-dev"
   config.vm.box_url = "https://clusterhq-archive.s3.amazonaws.com/vagrant/flocker-dev.json"
   config.vm.box_version = "> 0.3.2.1714"
-  config.vm.network "private_network", ip: "192.168.33.13"
+  config.vm.network "private_network", ip: "192.168.50.15"
   config.vm.provision :shell, :inline => $bootstrap, :privileged => true
   # Use the git configuration from the host in the VM, if it is in the expected
   # location
