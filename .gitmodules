@@ -7,3 +7,6 @@
 [submodule "scaleio-vagrant"]
 	path = scaleio-vagrant
 	url = https://github.com/wallnerryan/scaleio-vagrant-7.git
+[submodule "flocker-scaleio-singlenode"]
+	path = flocker-scaleio-singlenode
+	url = https://github.com/wallnerryan/flocker-scaleio-singlenode.git
